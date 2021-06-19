@@ -12,7 +12,6 @@ const About = ()=>{
           <div>
             <img src={img} alt="about company" />
           </div>
-
         </article>
         <article>
           <h4>The abode of bygone ruins</h4>
@@ -34,3 +33,5 @@ const About = ()=>{
   );
 
 };
+
+export default About;
